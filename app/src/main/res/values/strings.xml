@@ -1,0 +1,12 @@
+<resources>
+    <!-- Login screen start -->
+    <string name="app_name">Cognizant android tech assignment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <!-- Login screen end -->
+
+    <!-- Home screen start -->
+    <string name="home_title">Premier League Teams</string>
+    <!-- Home screen end -->
+</resources>
