@@ -7,10 +7,10 @@ Name: Yaseen Lahmami
 
 JDK version 15
 
-create and add local.properties file in the root folder with the SDK file location
+Create and add local.properties file in the root folder with the SDK file location
 sdk.dir=C\:{path}\\AppData\\Local\\Android\\Sdk
 
-clean, exit the IDE and rebuild the project if this error occurs "Activity class {} does not exist"
+Clean, exit the IDE and rebuild the project if this error occurs "Activity class {} does not exist"
 
 ### Explanation
 
